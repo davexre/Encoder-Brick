@@ -1,0 +1,4 @@
+Encoder Brick -
+
+Small board that implements the required circuits for an encoder with a click switch. The
+board expects that pullup resistors will also be used on the A & B pins for the encoder.
